@@ -1,0 +1,24 @@
+{
+  "name": "dir2json",
+  "version": "0.0.1",
+  "description": "convert a directory tree to json representation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/denkhaus/node-dir2json.git"
+  },
+  "keywords": [
+    "walk",
+    "directory",
+    "recursive",
+    "tree",
+    "json"
+  ],
+  "author": {
+    "name": "Brain Loop",
+    "email": "peristaltic@gmx.net"
+  },
+  "license": "MIT",
+  "_id": "dir2json@0.0.1",
+  "_from": "dir2json@"
+}
