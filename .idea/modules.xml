@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dir2json.iml" filepath="$PROJECT_DIR$/.idea/dir2json.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dirwalker.iml" filepath="$PROJECT_DIR$/.idea/dirwalker.iml" />
     </modules>
   </component>
