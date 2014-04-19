@@ -1,6 +1,6 @@
 {
   "name": "dir2json",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "convert a directory tree to json representation",
   "main": "index.js",
   "dependencies":{
@@ -22,6 +22,6 @@
     "email": "peristaltic@gmx.net"
   },
   "license": "MIT",
-  "_id": "dir2json@0.0.1",
+  "_id": "dir2json@0.0.2",
   "_from": "dir2json@"
 }
